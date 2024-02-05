@@ -1,0 +1,26 @@
+body {
+      height: 100vh;
+    display: flex;
+
+  background-image: url("./assets/fondo.jpg");
+background-size: 100% 100%;
+  color: whitesmoke;
+}
+
+main {
+  display: flex;    
+}
+@media (max-width: 720px) {
+  main {
+    display: flex; 
+    flex-direction: column; 
+  }
+ ul {
+    display: flex;
+    flex-direction: row;
+  }
+
+#foto{
+  width: 75px;
+}
+}

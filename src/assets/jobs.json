@@ -1,0 +1,32 @@
+[{
+    "id": 1,
+    "empresa": "Librerias A B C S.A.",
+    "fecha": "(1988 – 1990)",
+    "cargo": "Empleado administrativo",
+    "tareas": ["Control de stock", "Cadete", "Cajero"]
+},
+{
+    "id": 2,
+    "empresa": "Bonafide S.A.I.C.",
+    "fecha": "(1991 – 1993)",
+    "cargo": "Empleado de Oficina de Personal",
+    "tareas": ["Control de asistencia", "liquidación de horas", "Selección de personal"]
+},
+{
+    "id": 3,
+    "empresa": "Transportadora de caudales Juncadela S.A - (Prosegur S. A.)",
+    "fecha": "(Agosto 1993 – Agosto 2006)",
+    "cargo": "Encargado de Recuento",
+    "tareas": ["Auditoria Interna", "Redacción de Normas de Prosedimientos", "Manejo de Armas"]
+},
+{
+    "id": 4,
+    "empresa": "Transportadora de caudales Vigencia Duque - (Loomis S. A.)",
+    "fecha": "(Agosto 1993 – Agosto 2006)",
+    "cargo": "Encargado Tesoro de Bultos",
+    "tareas": ["Recuento de efectivo (manual y mecanizado)", "Verificación de diferencias", 
+    "Armado de salidas", "Confección de manual de procedimientos", "Cajero", 
+    "Manejo de moneda extranjera", "Saldos y balance de efectivo y bolsas de recaudación", "Estadisticas"]
+}
+
+]
